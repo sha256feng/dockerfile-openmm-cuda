@@ -1,4 +1,5 @@
 FROM nvidia/cuda:10.0-runtime-ubuntu18.04
+MAINTAINER SHA256FENG
 
 # base OS packages
 RUN \
