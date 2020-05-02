@@ -7,7 +7,8 @@ RUN \
         && apt-get install -yq \
         build-essential \
         bzip2 \
-        wget
+        wget \
+        csh
 
 # conda
 RUN \
